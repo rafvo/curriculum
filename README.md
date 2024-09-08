@@ -1,8 +1,6 @@
 # curriculum
 Vue.js, Nuxt, Typescript and TailwindCSS
 
-![image](https://github.com/user-attachments/assets/84f26429-fd4f-4874-87bc-77f8ba9251dd)
-
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
