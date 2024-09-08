@@ -137,7 +137,7 @@ export function useEnglishVersion() {
           typeOfEmployment: 'Part Time',
           startedIn: 'Jul 2019',
           endedIn: 'Dec 2020',
-          duration: '1 ano e 6 meses',
+          duration: '1 year and 6 months',
           typeOfLocation: 'In person',
           competences: {
             title: 'Skills',
